@@ -44,3 +44,28 @@ nav a {
   width: 100%;
   display: inline-block;
 }
+
+
+/* FOOTER */
+footer{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  background: #771515;
+}
+
+footer li{
+  list-style: none;
+  color: #F2E8D6;
+  line-height: 2em;
+}
+
+footer li a{
+  color: #F2E8D6;
+  line-height: 2em;
+  margin-top: 1em;
+}
+
+#højre{
+  text-align: right;
+  padding-right: 2em;
+}
