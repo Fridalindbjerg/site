@@ -67,9 +67,12 @@ footer li a{
 
 #højre{
   text-align: right;
-  padding-right: 2em;
+  padding-right: 1em;
 }
 
+#venstre{
+  padding-left: 1em;
+}
 
 body{
   background-color: #F2E8D6;
